@@ -6,6 +6,8 @@ This web app: **is a react app built to view movies**
 
 Time spent: **5** hours spent in total
 
+**FREE API provided by: THE TV DATABASE**
+
 ## Required Features
 
 The following **required** functionality is completed:
